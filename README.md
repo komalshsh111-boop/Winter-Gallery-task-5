@@ -1,5 +1,5 @@
 # Winter-Gallery-task-5
-# ❄️ Winter Gallery
+markdown# ❄️ Winter Gallery
 
 A beautiful photography gallery website built with HTML5 and CSS3.
 
@@ -24,5 +24,3 @@ Winter Gallery is a responsive landing page that showcases stunning winter photo
 - CSS3
 - Font Awesome Icons
 - Google Fonts (Cormorant Garamond, Montserrat)
-
-## 📁 Project Structure
