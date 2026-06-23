@@ -127,13 +127,10 @@ img { display: block; width: 100%; }
   border-bottom: 1px solid #e8edf0;
   padding: 0;
 }
-.filter-tabs {
-  display: flex;
-  justify-content: center;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  gap: 0;
+.filter-tabs{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 .filter-tabs li {
   padding: 20px 35px;
